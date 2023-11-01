@@ -1,0 +1,3 @@
+cd ~/Library/LaunchAgents/
+curl -O "https://raw.githubusercontent.com/Senude/Rick-Roller/main/com.senude.giveup.plist
+launchctl load ~/Library/LaunchAgents/com.senude.giveup.plist
